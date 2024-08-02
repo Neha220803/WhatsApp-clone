@@ -1,8 +1,5 @@
-// ignore_for_file: prefer_const_constructors
-
 import 'package:flutter/material.dart';
 import 'main_page.dart';
-// import 'trail.dart';
 
 void main() {
   runApp(const MainApp());
@@ -20,5 +17,3 @@ class MainApp extends StatelessWidget {
         home: ChatsPage());
   }
 }
-
-//WhatsAppCloneScreen
